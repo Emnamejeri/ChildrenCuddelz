@@ -1,5 +1,5 @@
 import { makeStyles } from "@material-ui/core/styles";
-import { pink, amber, cyan, yellow } from "material-ui-colors";
+import { pink, amber, cyan, yellow } from "@mui/material/colors";
 
 const useStyles = makeStyles((theme) => ({
   container: {
